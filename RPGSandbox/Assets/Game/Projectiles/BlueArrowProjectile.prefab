@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5617840512305175827
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2981980416190595725, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3166338384246500380, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Name
+      value: BlueArrowProjectile
+      objectReference: {fileID: 0}
+    - target: {fileID: 4324398809967854980, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: speed
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4324398809967854980, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: isHoming
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4324398809967854980, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: hitEffect
+      value: 
+      objectReference: {fileID: 3035133154032877843, guid: b54308c2d38ac7b4d852046f074117bb,
+        type: 3}
+    - target: {fileID: 6099436907093662544, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.ctime0
+      value: 17348
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099436907093662544, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.b
+      value: 0.8773585
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099436907093662544, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.g
+      value: 0.43917772
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099436907093662544, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key0.r
+      value: 0.120016046
+      objectReference: {fileID: 0}
+    - target: {fileID: 6099436907093662544, guid: e6a57974855937d48bad6b4dd0a85187,
+        type: 3}
+      propertyPath: m_Parameters.colorGradient.key1.a
+      value: 0.6901961
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e6a57974855937d48bad6b4dd0a85187, type: 3}
